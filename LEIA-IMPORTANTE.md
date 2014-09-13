@@ -22,3 +22,5 @@ Colaboradores:
 MEMBROS DO GRUPO
 ================
 Pablo Dias
+
+Isabella Pires
